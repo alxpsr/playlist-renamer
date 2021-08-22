@@ -1,0 +1,15 @@
+{
+  "name": "dj-renamer",
+  "version": "1.0.0",
+  "description": "- remove all digits from the start of files - read playlist and put order numbers into file name",
+  "main": "main.js",
+  "scripts": {
+    "go": "node playlist-renamer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.2.0"
+  }
+}
